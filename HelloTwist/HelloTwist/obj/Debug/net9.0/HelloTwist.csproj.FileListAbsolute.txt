@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\bin\Debug\net9.0\HelloTwist.exe
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\bin\Debug\net9.0\HelloTwist.deps.json
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\bin\Debug\net9.0\HelloTwist.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\bin\Debug\net9.0\HelloTwist.dll
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\bin\Debug\net9.0\HelloTwist.pdb
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.dll
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\refint\HelloTwist.dll
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.pdb
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\HelloTwist.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\HelloTwist\HelloTwist\obj\Debug\net9.0\ref\HelloTwist.dll
